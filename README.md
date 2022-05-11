@@ -1,2 +1,2 @@
-# EDA_Covid19
-Exploratory Data Analysis on covid-19
+# DA_Covid19
+ Data Analysis on covid-19
